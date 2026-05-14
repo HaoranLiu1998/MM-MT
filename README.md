@@ -48,7 +48,7 @@ Install the required environment using Conda:
 
 ```bash
 conda env create -f environment.yml
-
+```
 ---
 
 # Dataset Preparation
