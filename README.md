@@ -44,11 +44,10 @@ Example:
 pip install torch torchvision torchaudio
 ```
 
-Install additional dependencies:
+Install the required environment using Conda:
 
 ```bash
-pip install -r requirements.txt
-```
+conda env create -f environment.yml
 
 ---
 
